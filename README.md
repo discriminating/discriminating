@@ -1,5 +1,3 @@
-### よ、名前はdiscriminatingだ
-  
 <details>
   <summary>PGP</summary>
 <pre>
@@ -61,9 +59,3 @@ bsFwLPN56fc58mdasjVSIRLnLursK+m0qfh8ZK6jX28yPi5SqdIRxaU=
 ![C](https://img.shields.io/badge/C-00427e?style=for-the-badge&logo=c&logoColor=white)
 ![ASM](https://img.shields.io/badge/ASM-6e4c13?style=for-the-badge&logo=intel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
-###### 
-日本語と英語が話せる
-
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=discriminating&show_icons=true&show_icons=true&title_color=24A7FF&text_color=cccccc&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&hide=prs)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=discriminating&show_icons=true&title_color=24A7FF&text_color=cccccc&bg_color=00000000&hide_border=true)
